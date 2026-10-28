@@ -227,7 +227,3 @@ The environment uses `random.Random(seed)` per instance — fully isolated, safe
 ```
 
 ---
-
-## License
-
-This project is released under the MIT license found in the `LICENSE` file.
